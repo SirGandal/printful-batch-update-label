@@ -3,7 +3,7 @@ As of today (May 24th, 2017), when editing a T-shirt product in Printful there's
 
 ## Why?
 
-I created the script because I had to update the label of 15 products each one of them having 100 variants. Doing it manually would take ages (~1000 clicks). For this reason I have created a sample Snippet that can be used in Chrome to automate the process and do the work for me.  
+I created the snippet because I had to update the label of 15 products each one of them having 100 variants. Doing it manually would take ages (~1000 clicks). For this reason I have created a sample Snippet that can be used in Chrome to automate the process and do the work for me.  
 
 ## How it works
 ### Step 1
@@ -37,4 +37,4 @@ You can see the progress in the console at the bottom. If for some reason the sn
 To change the label of other product simply repeat steps 1 to 6 but selecting a different product in the beginning.  
 
 ## Disclaimer
-I contacted Printful's customer support and they have plans to support the feature in the feature but I couldn't get any specific date. The script relies on CSS class names and DOM structure and could suddenly stop working or misbehave. I don't plan to support it or update it unless I need to for my own use. Use this script at your own risk. 
+I contacted Printful's customer support and they have plans to support the feature in the future but I couldn't get any specific date. The script relies on CSS class names and DOM structure and could suddenly stop working or misbehave. I don't plan to support it or update it unless I need to for my own use. Use this script at your own risk. 
