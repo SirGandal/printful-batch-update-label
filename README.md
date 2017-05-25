@@ -32,7 +32,7 @@ Close all the pop ups on your printful page, right click on the snippet and hit 
 ![Step5](Images/Screenshot_5.JPG?raw=True)
 
 
-You can see the process in the console at the bottom. If for some reason the snippet stops and doesn't proceed, note down what is the progress (e.g. 26) and reload the page. In the snippet from the left change the value of _fromRow_ from 0 to whatever number you wrote down. Repeat step 5.
+You can see the progress in the console at the bottom. If for some reason the snippet stops and doesn't proceed, note down what is the progress (e.g. 26) and reload the page. In the snippet from the left change the value of _fromRow_ from 0 to whatever number you wrote down. Repeat step 5.
 ![Step6](Images/Screenshot_6.JPG?raw=True)  
 To change the label of other product simply repeat steps 1 to 6 but selecting a different product in the beginning.  
 
